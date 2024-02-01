@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "./SbHeader"; // Update the path based on your project structure
+import Header from "./SbHeader";
 import "./App.css";
 import sbdata from "./sbdata";
 import sb2data from "./sbdata2";
@@ -27,7 +27,6 @@ const App = () => {
 
   return (
     <div>
-      {/* Starbucks Header Section */}
       <Header {...headerProps} />
       {sbdata.map((item) => (
         <Store sbdataObj={item} />

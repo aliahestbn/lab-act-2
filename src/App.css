@@ -10,7 +10,7 @@ header {
 
 .icon-box i {
   transition: color 0.3s, box-shadow 0.5s; /* Add smooth transitions for color and box-shadow changes */
-  box-shadow: 0 0 0 0 transparent; /* Initial shadow is transparent */
+  box-shadow: 0 0 0 0 transparent; /* Initial shadow */
   border-radius: 50%; /* Make the shadow circular */
 }
 

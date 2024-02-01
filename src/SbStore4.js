@@ -14,7 +14,7 @@ const Store4 = (props) => {
                 using surprising color palettes, angles, and shapes in this
                 artist series.
               </p>
-              <a href="#">Meet Damon</a>
+              <a href="/">Meet Damon</a>
             </div>
 
             <div className="duck">

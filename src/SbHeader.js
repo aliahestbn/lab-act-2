@@ -20,7 +20,7 @@ const Header = ({
             <ul>
               {menuItems.map((menuItem, index) => (
                 <li key={index}>
-                  <a href="#">{menuItem}</a>
+                  <a href="/">{menuItem}</a>
                 </li>
               ))}
             </ul>

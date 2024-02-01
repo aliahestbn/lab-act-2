@@ -15,7 +15,7 @@ const Store6 = (props) => {
               <p>
                 Our partners uplift each other and their communities every day.
               </p>
-              <a href="#">Learn more</a>
+              <a href="/">Learn more</a>
             </div>
 
             <div className="duck">
