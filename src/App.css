@@ -217,7 +217,7 @@ nav ul a:hover {
   align-items: center;
   text-align: center;
   margin-top: 30px;
-  background-color: #1e3932;
+  background-color: #006241;
 }
 
 .poster-two {
@@ -266,19 +266,19 @@ nav ul a:hover {
 
 .poster-three h2 {
   font-size: 6rem;
-  color: #1e3932;
+  color: #012e1e;
 }
 
 .poster-three p {
   font-size: 2.8rem;
   margin: 20px 0;
-  color: #1e3932;
+  color: #012e1e;
 }
 
 .poster-three a {
   font-size: 1.5rem;
   text-decoration: none;
-  border: 1px solid #1e3932;
+  border: 1px solid #012e1e;
   padding: 8px 20px;
   border-radius: 50px;
   color: #1e3932;
@@ -305,14 +305,14 @@ nav ul a:hover {
 }
 
 .poster-four h2 {
-  color: #004e34;
+  color: #012e1e;
   font-size: 6rem;
 }
 
 .poster-four p {
   font-size: 2.6rem;
   margin: 20px;
-  color: #004e34;
+  color: #012e1e;
 }
 
 .poster-four a {
@@ -376,7 +376,7 @@ nav ul a:hover {
   align-items: center;
   text-align: center;
   margin-top: 30px;
-  background-color: #006241;
+  background-color: #013121;
 }
 
 .poster-six {
